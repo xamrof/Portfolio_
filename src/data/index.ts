@@ -27,10 +27,10 @@ export interface Project {
 
 // 2. EXPORTAMOS LOS DATOS (Usando las interfaces para tipado estricto)
 export const personalInfo: PersonalInfo = {
-  name: "Tu Nombre",
+  name: "Maxwell Salazar",
   role: "Desarrollador Full Stack",
   description: "Especializado en Backend (Node.js, TS) y creando experiencias increíbles en el Frontend con React.",
-  email: "hola@tudominio.com",
+  email: "maxwellworks23@gmail.com",
 };
 
 export const skills: Skill[] = [
