@@ -34,7 +34,7 @@ export const personalInfo: PersonalInfo = {
 };
 
 export const skills: Skill[] = [
-  { id: 1, name: "Node.js", category: "Backend", icon: Icons.Server },
+  { id: 1, name: "NodeJS", category: "Backend", icon: Icons.Server },
   { id: 2, name: "TypeScript", category: "Lenguaje", icon: Icons.Code },
   { id: 3, name: "JavaScript", category: "Lenguaje", icon: Icons.Terminal },
   { id: 4, name: "React", category: "Frontend", icon: Icons.Atom },
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     id: 1,
     title: "WhatsApp Bot AI",
     description: "Bot inteligente para atención al cliente con búsqueda vectorial y manejo de sesiones multi-usuario.",
-    technologies: ["Node.js", "Vector DB", "OpenAI"],
+    technologies: ["NodeJS", "Vector DB", "OpenAI"],
     link: "#"
   },
   {
